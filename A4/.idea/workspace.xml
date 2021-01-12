@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22f9f475-2ef7-4a39-b722-50dae07fe581" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2679">
+              <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2006">
+              <caret line="438" column="26" selection-start-line="438" selection-start-column="26" selection-end-line="438" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1230">
+              <caret line="95" column="23" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/List.java" />
+        <option value="$PROJECT_DIR$/src/DP.java" />
+        <option value="$PROJECT_DIR$/src/DPTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="458" />
+    <option name="y" value="23" />
+    <option name="width" value="982" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="List.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550119491944" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DPTest.partitionTiming">
+    <configuration name="DPTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DPTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DPTest.mytestinlcs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DPTest" />
+      <option name="METHOD_NAME" value="mytestinlcs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DPTest.mytestinpartion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DPTest" />
+      <option name="METHOD_NAME" value="mytestinpartion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DPTest.partitionTiming" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DPTest" />
+      <option name="METHOD_NAME" value="partitionTiming" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DPTest.speedcomparelcs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DPTest" />
+      <option name="METHOD_NAME" value="speedcomparelcs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DPTest.partitionTiming" />
+        <item itemvalue="JUnit.DPTest.mytestinpartion" />
+        <item itemvalue="JUnit.DPTest" />
+        <item itemvalue="JUnit.DPTest.speedcomparelcs" />
+        <item itemvalue="JUnit.DPTest.mytestinlcs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22f9f475-2ef7-4a39-b722-50dae07fe581" name="Default Changelist" comment="" />
+      <created>1549226953236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549226953236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DPTest_mytestinlcs - 2019.02.06 at 22h 49m 21s.xml">
+      <configuration name="DPTest.mytestinlcs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest_mytestinlcs - 2019.02.06 at 22h 50m 39s.xml">
+      <configuration name="DPTest.mytestinlcs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest_mytestinlcs - 2019.02.06 at 22h 50m 49s.xml">
+      <configuration name="DPTest.mytestinlcs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest_mytestinlcs - 2019.02.06 at 22h 51m 20s.xml">
+      <configuration name="DPTest.mytestinlcs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest_speedcomparelcs - 2019.02.06 at 22h 53m 17s.xml">
+      <configuration name="DPTest.speedcomparelcs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest - 2019.02.06 at 22h 54m 43s.xml">
+      <configuration name="DPTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest - 2019.02.06 at 22h 55m 33s.xml">
+      <configuration name="DPTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest_mytestinpartion - 2019.02.06 at 22h 55m 49s.xml">
+      <configuration name="DPTest.mytestinpartion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest_partitionTiming - 2019.02.06 at 22h 57m 07s.xml">
+      <configuration name="DPTest.partitionTiming" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DPTest_partitionTiming - 2019.02.06 at 22h 57m 14s.xml">
+      <configuration name="DPTest.partitionTiming" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="458" y="23" width="982" height="805" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.038297873" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2851485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.23069307" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19599427" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40240964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.23253012" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DP.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/src/DPTest.java" />
+    <entry file="file://$USER_HOME$/Downloads/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="95" column="23" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="438" column="26" selection-start-line="438" selection-start-column="26" selection-end-line="438" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2679">
+          <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
